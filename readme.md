@@ -95,5 +95,6 @@ Best Validation Loss: ~1.17
 
 
 Author
+
 Pavan Krishna Kottachalla
 Car Damage Classification System
