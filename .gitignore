@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+*.sqlite3
+
+# FastAPI uploads
+uploads/
+temp/
+*.jpg
+*.jpeg
+*.png
+
+# Models & large files
+models/
+*.h5
+*.keras
+*.pth
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node / TS frontend
+node_modules/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
